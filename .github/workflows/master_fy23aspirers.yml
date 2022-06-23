@@ -56,5 +56,5 @@ jobs:
         with:
           app-name: 'fy23aspirers'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_C9D66808901443C89B24763B345CCA22 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_8E9B07845F0442CB868546068B399608 }}
           package: .
